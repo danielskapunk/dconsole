@@ -1,5 +1,6 @@
 /**
  * console wrapper with line numbers
+ * forked from: amelierosser/console.js
  * Usage:
  * import * as c from 'console'
  * c.log('abc');
