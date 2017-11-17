@@ -1,5 +1,5 @@
 {
-  "name": "dconsole.js",
+  "name": "dconsole",
   "version": "0.1.2",
   "main": "dist/console.js",
   "license": "Unlicense",
